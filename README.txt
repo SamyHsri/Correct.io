@@ -4,6 +4,8 @@ but you accidently wrote it in Persian, or vice versa...
 
 With this app you can correct that without writing it again.
 
+### password : samyhsri
+
 If you have any suggestion or criticism please contact me:
 @sammhesari on telegram
 
@@ -11,5 +13,6 @@ If you have any suggestion or criticism please contact me:
 update _one:
 1.fixed some bugs
 2.copy and clear keys added
+
 
 and if you dont like it I dont care.
